@@ -1,5 +1,5 @@
 # Web-Based-Responsive-Event-Management-System
-As a part of my Final Year Bachelor's Project, it is a Web Application completed for Tata Motors Ltd. It replaces the notice-board based display of events to be conducted. The different functions of the application are :-
+As part of my Final Year Bachelor's Project, we developed a Web Application for Tata Motors Ltd. It replaces the notice-board based display of events to be conducted. The different functionalities of the application are :-
 1. Organizer login and sign up page
 2. New organizer and event details to be entered
 3. Display of events conducted - corporate as well as social
